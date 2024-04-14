@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Biberkatze
-- 👀 I’m interested in yo mama
-- 🌱 I’m currently learning how to get bitches
-- 💞️ I’m looking to collaborate on Pornhub
-- 📫 How to reach me Letter 
+- 👀 I’m interested in cyber security
+- 🌱 I’m currently learning how to code an ai
+- 📫 How to reach me later: cedric.tuma@bluewin.ch
 
 <!---
 Biberkatze/Biberkatze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
